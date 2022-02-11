@@ -1,0 +1,2 @@
+# gitknowledge
+just for interview 
